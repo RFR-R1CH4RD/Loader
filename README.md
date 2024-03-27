@@ -1,6 +1,6 @@
 ## Salvatore
 Salvatore script is a versatile and universal script hub that supports a wide range of games on the Roblox platform.
-Currently supported games:
+## Currently supported games:
 - Berry Avenue RP
 - Break In 2 (Story)
 - Brookhaven RP
