@@ -9,6 +9,7 @@ Salvatore script is a versatile and universal script hub that supports a wide ra
 ```lua
  loadstring(game:HttpGet("https://raw.githubusercontent.com/RFR-R1CH4RD/Loader/main/Salvatore.lua"))()
 ```
-![solid-color-image (1)-fotor-20240327162016-modified (2)](https://github.com/RFR-R1CH4RD/Loader/assets/127535312/d5341de1-ec81-4d1d-9cb0-330490fca333)
+![facebook-page-cover-820x312](https://github.com/RFR-R1CH4RD/Loader/assets/127535312/3576c854-29d9-4acc-b248-e3856767cdb8)
+
 
 
