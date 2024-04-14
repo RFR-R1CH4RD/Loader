@@ -6,6 +6,7 @@ Salvatore script is a versatile and universal script hub that supports a wide ra
 - Brookhaven RP
 - Murder Mystery 2
 - Redcliff City RP
+- Tower of Hell
 ## Loader
 ```lua
  loadstring(game:HttpGet("https://raw.githubusercontent.com/RFR-R1CH4RD/Loader/main/Salvatore.lua"))()
