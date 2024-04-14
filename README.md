@@ -4,6 +4,7 @@ Salvatore script is a versatile and universal script hub that supports a wide ra
 - Berry Avenue RP
 - Break In 2 (Story)
 - Brookhaven RP
+- Murder Mystery 2
 - Redcliff City RP
 ## Loader
 ```lua
