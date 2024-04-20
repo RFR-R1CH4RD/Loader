@@ -1,5 +1,5 @@
 ## Salvatore
-Salvatore script is a versatile and universal script hub that supports a wide range of games on the Roblox platform.
+A high-quality, versatile script hub that supports a wide range of games on the Roblox platform. It has a sleek, user-friendly interface to make every gaming experience unique and convenient. Explore a rich world of possibilities with Salvatore!
 ## Currently supported games:
 - Berry Avenue RP
 - Break In (Story)
@@ -11,7 +11,8 @@ Salvatore script is a versatile and universal script hub that supports a wide ra
 ```lua
  loadstring(game:HttpGet("https://raw.githubusercontent.com/RFR-R1CH4RD/Loader/main/Salvatore.lua"))()
 ```
-![facebook-news-feed-1200x628](https://github.com/RFR-R1CH4RD/Loader/assets/127535312/affbaf08-cd74-4c05-a493-ddc44bef5fd0)
+![SalvatoreBackgroundNew](https://github.com/RFR-R1CH4RD/Loader/assets/127535312/83bfebda-4de5-4427-a1b8-78eb2795eab7)
+
 
 
 
