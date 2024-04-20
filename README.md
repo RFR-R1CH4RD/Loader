@@ -11,7 +11,8 @@ A high-quality, versatile script hub that supports a wide range of games on the 
 ```lua
  loadstring(game:HttpGet("https://raw.githubusercontent.com/RFR-R1CH4RD/Loader/main/Salvatore.lua"))()
 ```
-![SalvatoreBackgroundNew](https://github.com/RFR-R1CH4RD/Loader/assets/127535312/83bfebda-4de5-4427-a1b8-78eb2795eab7)
+![SalvatoreBackground](https://github.com/RFR-R1CH4RD/Loader/assets/127535312/649546bd-aec6-4e3c-ba82-805e543eda16)
+
 
 
 
